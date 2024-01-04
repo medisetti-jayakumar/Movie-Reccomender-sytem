@@ -1,5 +1,6 @@
 # 1. MOVIE RECCOMENDER SYSTEM
 
+![Alt text](<image_section/Screenshot 2023-12-21 144243.png>)
 ### This app automatically suggests the 5 movie names related to the entered movie whatever you enter.
 
     - when we selected the movie name from the suggestions or entered the movie name in entry box what we need to search.
